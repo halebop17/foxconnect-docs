@@ -2,7 +2,7 @@
 icon: lucide/rocket
 ---
 
-# Welcome to the FoxConnect Documentation
+# FoxConnect Documentation
 
 FoxConnect – The LINE‑First Booking & CRM Platform for Service Businesses.
 For full documentation visit [docs.foxconnect.app](https://docs.foxconnect.app).
@@ -17,7 +17,7 @@ FoxConnect leverages LINE’s dominant position to provide a friction‑free boo
 
 ## Get Started
 
-
+If you’re new to FoxConnect and have just signed up, begin by working through our concise “Get Started” guide. The guide covers everything you need to configure FoxConnect quickly, from connecting your LINE Official Account (OA) to setting up the essential features that power the platform. Once you’ve completed those core steps, you can explore the remaining sections of the guide at your leisure.
 
 ## Examples
 
