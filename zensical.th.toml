@@ -8,7 +8,8 @@
 
 [project]
 site_name = "FoxConnect Documentation"
-docs_dir = "docs/en"
+docs_dir = "docs/th"
+site_dir = "site/th"
 
 # The site_name is shown in the page header and the browser window title
 #
@@ -110,7 +111,7 @@ Copyright &copy; 2026 The authors
 # Read more:
 # - https://zensical.org/docs/setup/language/
 #
-language = "en"
+language = "th"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
