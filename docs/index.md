@@ -2,19 +2,22 @@
 icon: lucide/rocket
 ---
 
-# Get started
+# Welcome to the FoxConnect Documentation
 
-For full documentation visit [zensical.org](https://zensical.org/docs/).
+FoxConnect – The LINE‑First Booking & CRM Platform for Service Businesses.
+For full documentation visit [docs.foxconnect.app](https://docs.foxconnect.app).
 
-## Commands
+## Intro
 
-* [`zensical new`][new] - Create a new project
-* [`zensical serve`][serve] - Start local web server
-* [`zensical build`][build] - Build your site
+FoxConnect turns Thailand’s 50 million LINE users into a ready‑to‑book customer base, letting salons, clinics, fitness studios and other service providers accept appointments, manage staff schedules and nurture relationships – all inside the familiar LINE messenger interface. 
 
-  [new]: https://zensical.org/docs/usage/new/
-  [serve]: https://zensical.org/docs/usage/preview/
-  [build]: https://zensical.org/docs/usage/build/
+The platform eliminates app downloads, streamlines every step from selecting a service to receiving instant confirmation, and automatically captures each interaction in a unified CRM that tracks contact details, booking history, preferences and notes. With real‑time calendar sync, automated reminders, two‑way chat, and a robust analytics dashboard, FoxConnect helps businesses reduce no‑shows, increase bookings by up to 40 % and gain actionable insights that drive growth. 
+
+FoxConnect leverages LINE’s dominant position to provide a friction‑free booking experience that scales from a single salon to multi‑branch clinics and beyond.
+
+## Get Started
+
+
 
 ## Examples
 
@@ -72,18 +75,6 @@ Code can also be highlighted inline: `#!python print("Hello, Python!")`.
     println!("Hello from Rust!");
     ```
 
-## Diagrams
-
-> Go to [documentation](https://zensical.org/docs/authoring/diagrams/)
-
-``` mermaid
-graph LR
-  A[Start] --> B{Error?};
-  B -->|Yes| C[Hmm...];
-  C --> D[Debug];
-  D --> B;
-  B ---->|No| E[Yay!];
-```
 
 ## Footnotes
 
@@ -95,72 +86,3 @@ Hover it, to see a tooltip.
 
 [^1]: This is the footnote.
 
-
-## Formatting
-
-> Go to [documentation](https://zensical.org/docs/authoring/formatting/)
-
-- ==This was marked (highlight)==
-- ^^This was inserted (underline)^^
-- ~~This was deleted (strikethrough)~~
-- H~2~O
-- A^T^A
-- ++ctrl+alt+del++
-
-## Icons, Emojis
-
-> Go to [documentation](https://zensical.org/docs/authoring/icons-emojis/)
-
-* :sparkles: `:sparkles:`
-* :rocket: `:rocket:`
-* :tada: `:tada:`
-* :memo: `:memo:`
-* :eyes: `:eyes:`
-
-## Maths
-
-> Go to [documentation](https://zensical.org/docs/authoring/math/)
-
-$$
-\cos x=\sum_{k=0}^{\infty}\frac{(-1)^k}{(2k)!}x^{2k}
-$$
-
-!!! warning "Needs configuration"
-    Note that MathJax is included via a `script` tag on this page and is not
-    configured in the generated default configuration to avoid including it
-    in a pages that do not need it. See the documentation for details on how
-    to configure it on all your pages if they are more Maths-heavy than these
-    simple starter pages.
-
-<script id="MathJax-script" async src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [["\\(", "\\)"]],
-      displayMath: [["\\[", "\\]"]],
-      processEscapes: true,
-      processEnvironments: true
-    },
-    options: {
-      ignoreHtmlClass: ".*|",
-      processHtmlClass: "arithmatex"
-    }
-  };
-</script>
-
-## Task Lists
-
-> Go to [documentation](https://zensical.org/docs/authoring/lists/#using-task-lists)
-
-* [x] Install Zensical
-* [x] Configure `zensical.toml`
-* [x] Write amazing documentation
-* [ ] Deploy anywhere
-
-## Tooltips
-
-> Go to [documentation](https://zensical.org/docs/authoring/tooltips/)
-
-[Hover me][example]
-
-  [example]: https://example.com "I'm a tooltip!"
