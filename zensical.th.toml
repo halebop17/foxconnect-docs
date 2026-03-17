@@ -308,6 +308,7 @@ toggle.name = "Switch to light mode"
 #link = "https://github.com/user/repo"
 
 [project.extra]
+generator = false
 alternate = [
     { name = "English", link = "/index.html", lang = "en" },
     { name = "Thai", link = "/th/", lang = "th" }
