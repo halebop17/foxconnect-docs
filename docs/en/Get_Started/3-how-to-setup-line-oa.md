@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 3. How to setup LINE OA
+title: 3. Setup LINE OA
 ---
 
 # Setup LINE OA

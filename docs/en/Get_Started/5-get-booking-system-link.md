@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 5. Get your booking link
+title: 5. Get booking link
 ---
 
 # Get your booking link

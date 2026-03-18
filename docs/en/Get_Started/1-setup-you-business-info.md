@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 1. Setup your business info
+title: 1. Setup business info
 ---
 
 # Setup business info

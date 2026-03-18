@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 2. Add your working hours
+title: 2. Add working hours
 ---
 
 # Add your working hours
