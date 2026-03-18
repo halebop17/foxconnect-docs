@@ -23,11 +23,11 @@ If you’re new to FoxConnect and have just signed up, begin by working through 
 
 !!! note "Get Started Guide"
 
-    1. [Setup your business information](https://foxconnect.app)  
-    2. [How to Add Working Hours](https://foxconnect.app)  
-    3. [How To Setup LINE OA](https://foxconnect.app)  
-    4. [Create LINE LIFF](https://foxconnect.app)  
-    5. [Get your booking system link](https://foxconnect.app)  
+    1. [Setup your business information](https://docs.foxconnect.app/Get_Started/1-setup-you-business-info/)  
+    2. [How to Add Working Hours](https://docs.foxconnect.app/Get_Started/2-how-to-add-working-hours/)  
+    3. [How To Setup LINE OA](https://docs.foxconnect.app/Get_Started/3-how-to-setup-line-oa/)  
+    4. [Create LINE LIFF](https://docs.foxconnect.app/Get_Started/4-create-line-liff/)  
+    5. [Get your booking system link](https://docs.foxconnect.app/Get_Started/5-get-booking-system-link/)  
 
 
 
