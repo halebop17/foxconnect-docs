@@ -17,6 +17,8 @@ To ensure your booking page displays accurate contact information and branding, 
 2. **Navigate to Booking Settings**  
    - Go to the **Booking Settings** section and open the **Information** tab. This area is specifically designed for entering core business details that will appear on the booking interface.
 
+![Add business info](../../assets/images/add-business-info.png "Add Business Info")
+
 3. **Enter Core Business Details**  
    - **Business Name** – The official name that will be shown to customers.  
    - **Address** – Full mailing or service address; useful for contact and location verification.  
@@ -31,5 +33,3 @@ To ensure your booking page displays accurate contact information and branding, 
    - After filling in all required fields, click **Save** to apply the updates. The new information will immediately reflect on your public booking page and any embedded widgets.
 
 By completing these steps, you ensure that every customer interaction starts with clear, professional business details and a consistent visual identity.
-
-![Add business info](../../assets/images/add-business-info.png "Add Business Info")

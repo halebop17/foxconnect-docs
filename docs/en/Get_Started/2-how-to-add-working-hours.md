@@ -18,6 +18,8 @@ Two key sections are available:
 | **Working Hours** | Define the recurring time slots that are open for bookings. | • Set a standard schedule (e.g., 9 AM–5 PM, Monday‑Friday). <br>• These times appear automatically in the customer‑facing booking calendar. |
 | **Days Off** | Mark any period during which you will not accept bookings. | • Specify holidays, special closures, or other breaks (e.g., a weekend retreat). <br>• The system blocks all slots within these dates so customers cannot book them. |
 
+![Add working hours](../../assets/images/add-working-hours.png "Add Working Hours")
+
 ### How It Works
 1. **General Business Hours**  
    - Enter the start and end times for each day of the week. These defaults are used whenever a customer selects a date that falls within your standard schedule.  
@@ -33,5 +35,3 @@ Two key sections are available:
 - **Verification**: After saving changes, preview the booking page to confirm that unavailable times are correctly hidden.
 
 By carefully configuring both sections, you maintain full control over your booking calendar and provide a seamless experience for clients.
-
-![Add working hours](../../assets/images/add-working-hours.png "Add Working Hours")
