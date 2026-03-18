@@ -9,7 +9,7 @@ title: Start Page
 Welcome to the FoxConnect documentation @  [docs.foxconnect.app](https://docs.foxconnect.app).  
 To visit the main website, visit [foxconnect.app](https://foxconnect.app).
 
-![FoxConnect](../assets/images/foxconnect-start.png "FoxConnect")
+![FoxConnect](../assets/images/foxconnect-start.jpeg "FoxConnect")
 
 ## Intro
 
