@@ -18,9 +18,8 @@ The LINE Developers console provides a dedicated “LIFF” tab for each channel
 3. **Choose the Relevant Channel**
     - Within that provider, locate and click the channel that hosts your booking system (usually only one channel is present).
 
-    ![LINE LIFF tab](../../shared/assets/images/get-booking-link-1.png)
+    ![LINE LIFF tab](../../assets/images/get-booking-link-1.png)
 
-    <p><em>Replace the placeholder image path above with your actual screenshot.</em></p>
 4. **Open the LIFF Tab**
     - On the channel’s page, click the **LIFF** tab. This section lists all LIFF applications associated with the channel.
 5. **Copy the LIFF URL**
