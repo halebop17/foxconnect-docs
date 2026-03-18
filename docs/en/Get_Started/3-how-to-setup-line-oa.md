@@ -67,5 +67,3 @@ title: 3. How to setup LINE OA
 - [ ] Copied **Channel ID**, **Channel Secret**, **Access Token**, and **Bot Basic ID**.  
 - [ ] Pasted credentials into Fox Connect and saved.  
 - [ ] Verified Webhook URL and enabled the webhook toggle.
-
-Follow this guide to integrate a LINE Official Account with Fox Connect reliably.
