@@ -47,17 +47,17 @@ Copyright &copy; 2026 The authors
 #
 # Read more: https://zensical.org/docs/setup/navigation/
 nav = [
-    { "Start Page" = "index.md" },
+    "index.md",
     { "Get Started" = [
-        { "Overview" = "Get_Started/index.md" },
-        { "1. Setup your business information" = "Get_Started/1-setup-you-business-info.md" },
-        { "2. How to Add Working Hours" = "Get_Started/2-how-to-add-working-hours.md" },
-        { "3. How To Setup LINE OA" = "Get_Started/3-how-to-setup-line-oa.md" },
-        { "4. Create LINE LIFF" = "Get_Started/4-create-line-liff.md" },
-        { "5. Get your booking system link" = "Get_Started/5-get-booking-system-link.md" },
+        "Get_Started/index.md",
+        "Get_Started/1-setup-you-business-info.md",
+        "Get_Started/2-how-to-add-working-hours.md",
+        "Get_Started/3-how-to-setup-line-oa.md",
+        "Get_Started/4-create-line-liff.md",
+        "Get_Started/5-get-booking-system-link.md",
     ] },
     { "Configure" = [
-        { "Overview" = "Configure/index.md" },
+        "Configure/index.md",
     ] },
 ]
 
