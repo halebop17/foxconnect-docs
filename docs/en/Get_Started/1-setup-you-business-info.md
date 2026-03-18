@@ -9,4 +9,4 @@ title: 1. Setup your business info
 
 Login, select your organization, go into Booking settings information tab, and enter your business information such as name, address, phone, email, and an image link to your business logo.
 
-![Add business info](/assets/images/add-business-info.png "Add Business Info")
+![Add business info](../../assets/images/add-business-info.png "Add Business Info")

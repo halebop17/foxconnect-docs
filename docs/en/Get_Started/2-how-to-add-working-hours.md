@@ -9,4 +9,4 @@ title: 2. Add your working hours
 
 On the Working Hours page, you set up your general business hours. These times will be used for displaying available time slots to your customers when they make a booking with you. On the Days Off tab, you can set up any holiday periods, special days off, or any other break where your business is not open and you do not take any bookings.
 
-![Add working hours](/assets/images/add-working-hours.png "Add Working Hours")
+![Add working hours](../../assets/images/add-working-hours.png "Add Working Hours")
