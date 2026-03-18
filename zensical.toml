@@ -58,6 +58,8 @@ nav = [
     ] },
     { "Configure" = [
         "Configure/index.md",
+        "Configure/add-branches.md",
+        "Configure/add-staff.md",
     ] },
 ]
 
