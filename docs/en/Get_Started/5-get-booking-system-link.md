@@ -11,23 +11,29 @@ title: 5. Get your booking link
 
 The LINE Developers console provides a dedicated “LIFF” tab for each channel. From this tab you can copy the permanent link that customers will use to access your booking interface.
 
-1. **Log into the LINE Developers Console**  
+1. **Log into the LINE Developers Console** 
+
    - Open `developers.line.biz` and sign in with your LINE account.  
 
 2. **Select the Correct Provider**  
+
    - In the “Providers” list, click the provider you created earlier. This is where all of your channels are grouped.  
 
 3. **Choose the Relevant Channel**  
+
    - Within that provider, locate and click the channel that hosts your booking system (usually only one channel is present).  
 
 4. **Open the LIFF Tab**  
+
    - On the channel’s page, click the **LIFF** tab. This section lists all LIFF applications associated with the channel.  
 
 5. **Copy the LIFF URL**  
+
    - Scroll to the entry that corresponds to your booking app.  
    - Copy the **LIFF URL** displayed; this is a permanent link that can be shared with customers.  
 
 6. **Share the Link**  
+
    - Distribute this URL via email, website, or any other communication channel. When a customer clicks it, they will be taken directly into the booking system within the LINE app or an external browser.  
 
 > The LIFF URL defaults to a Universal Link, enabling it to open both inside the LINE app and in external browsers. This makes it straightforward for users to start a booking session from wherever they are.  
