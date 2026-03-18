@@ -25,6 +25,9 @@ The LINE Developers console provides a dedicated “LIFF” tab for each channel
 5. **Copy the LIFF URL**
     - Scroll to the entry that corresponds to your booking app.
     - Copy the **LIFF URL** displayed; this is a permanent link that can be shared with customers.
+  
+    ![LINE LIFF tab](../../assets/images/get-booking-link-2.png)
+
 6. **Share the Link**
     - Distribute this URL via email, website, or any other communication channel. When a customer clicks it, they will be taken directly into the booking system within the LINE app or an external browser.
 
