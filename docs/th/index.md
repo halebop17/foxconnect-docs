@@ -5,7 +5,8 @@ title: Start Page
 
 # FoxConnect Documentation
 
-ยินดีต้อนรับสู่เอกสารประกอบของ FoxConnect ที่ [docs.foxconnect.app](https://docs.foxconnect.app).  
+ยินดีต้อนรับสู่เอกสารประกอบของ FoxConnect ที่ [docs.foxconnect.app/th](https://docs.foxconnect.app/th/).  
+For reading the documentation in English, please visit [docs.foxconnect.app](https://docs.foxconnect.app)  
 หากต้องการเยี่ยมชมเว็บไซต์หลัก ไปที่ [foxconnect.app](https://foxconnect.app).
 
 ![FoxConnect](../assets/images/foxconnect-start.jpeg "FoxConnect")
