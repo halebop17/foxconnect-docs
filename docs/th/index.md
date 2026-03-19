@@ -24,8 +24,8 @@ FoxConnect ใช้ประโยชน์จากตำแหน่งที
 
 !!! note "Get Started Guide"
 
-    1. [Setup your business information](https://docs.foxconnect.app/Get_Started/1-setup-you-business-info/)  
-    2. [How to Add Working Hours](https://docs.foxconnect.app/Get_Started/2-how-to-add-working-hours/)  
-    3. [How To Setup LINE OA](https://docs.foxconnect.app/Get_Started/3-how-to-setup-line-oa/)  
-    4. [Create LINE LIFF](https://docs.foxconnect.app/Get_Started/4-create-line-liff/)  
-    5. [Get your booking system link](https://docs.foxconnect.app/Get_Started/5-get-booking-system-link/)  
+    1. [ตั้งค่าข้อมูลธุรกิจของคุณ](https://docs.foxconnect.app/th/Get_Started/1-setup-you-business-info/)  
+    2. [เพิ่มชั่วโมงทำงานของคุณ](https://docs.foxconnect.app/th/Get_Started/2-how-to-add-working-hours/)  
+    3. [ตั้งค่า LINE OA](https://docs.foxconnect.app/th/Get_Started/3-how-to-setup-line-oa/)  
+    4. [สร้าง LINE LIFF](https://docs.foxconnect.app/th/Get_Started/4-create-line-liff/)  
+    5. [รับลิงก์การจองของคุณ](https://docs.foxconnect.app/th/Get_Started/5-get-booking-system-link/)  

@@ -47,10 +47,22 @@ Copyright &copy; 2026 The authors
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+    "index.md",
+    { "Get Started" = [
+        "Get_Started/index.md",
+        "Get_Started/1-setup-you-business-info.md",
+        "Get_Started/2-how-to-add-working-hours.md",
+        "Get_Started/3-how-to-setup-line-oa.md",
+        "Get_Started/4-create-line-liff.md",
+        "Get_Started/5-get-booking-system-link.md",
+    ] },
+    { "Configure" = [
+        "Configure/index.md",
+        "Configure/add-branches.md",
+        "Configure/add-staff.md",
+    ] },
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -60,7 +72,7 @@ Copyright &copy; 2026 The authors
 #
 # Read more: https://zensical.org/docs/customization/#additional-css
 #
-#extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/nav-always-expanded.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
