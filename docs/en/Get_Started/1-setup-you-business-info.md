@@ -5,7 +5,7 @@ title: 1. Setup business info
 
 # Setup your business info
 
-<iframe width="560" height="315" src="https://youtu.be/9pGZ_7x-Ezo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9pGZ_7x-Ezo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Setting Up Your Business Profile in FoxConnect**
 
