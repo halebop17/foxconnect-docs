@@ -7,6 +7,7 @@ title: Start Page
 
 
 Welcome to the FoxConnect documentation @  [docs.foxconnect.app](https://docs.foxconnect.app).  
+คุณสามารถอ่านเอกสารนี้เป็นภาษาไทยได้ที่ [docs.foxconnect.app/th](https://docs.foxconnect.app/th/)
 To visit the main website, visit [foxconnect.app](https://foxconnect.app).
 
 ![FoxConnect](../assets/images/foxconnect-start.jpeg "FoxConnect")
