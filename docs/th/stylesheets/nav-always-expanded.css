@@ -1,0 +1,12 @@
+/* Keep primary navigation groups expanded on all pages. */
+.md-nav--primary .md-nav__item--nested > .md-nav {
+  display: block !important;
+  max-height: none !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Hide expand/collapse affordance since groups are always visible. */
+.md-nav--primary .md-nav__item--nested > .md-nav__container .md-nav__icon {
+  display: none !important;
+}
