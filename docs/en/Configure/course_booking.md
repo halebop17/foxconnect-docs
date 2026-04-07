@@ -1,9 +1,9 @@
-# Course Booking Configuration in FoxConnect
+# Course Booking
 
 FoxConnect provides two distinct methods for managing courses, depending on whether your sessions occur on specific dates or follow a repeating weekly pattern.
 
 **Navigation:**  
-To begin, navigate to **Booking Types** $\rightarrow$ **Courses** $\rightarrow$ **Courses**.
+To begin, navigate to **Booking Types** >> **Courses** >> **Courses**.
 
 ---
 
@@ -17,7 +17,7 @@ To begin, navigate to **Booking Types** $\rightarrow$ **Courses** $\rightarrow$ 
     * *Note: This functions like a session package. For example, a customer can purchase "5 classes" at once. Each time they book a session, one usage is automatically deducted from their total.*
 * **Visuals:** Upload a clear, representative **Image URL** to be displayed on the booking interface.
 
-**Step $\rightarrow$ Step 2: Scheduling**
+**Step 2: Scheduling**
 * **Dates:** Select the specific **Start Date** and **End Date** for the course.
 * **Time Slots:** Set the **Start Time** and **End Time**.
 * **Capacity:** Define the maximum number of participants allowed per session.
