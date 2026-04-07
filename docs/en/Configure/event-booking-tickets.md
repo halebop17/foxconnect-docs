@@ -15,6 +15,7 @@ Use this section to define the time, place, and nature of your activity.
 **Booking Types** $\rightarrow$ **Events** $\rightarrow$ **New Event**
 
 ### Configuration Steps:
+
 1. **Basic Information:**
     * **Event Name & Description:** Provide a clear title and a detailed overview of what the event entails.
     * **Duration:** Set the expected length of the event.
@@ -40,6 +41,7 @@ Use this section to manage how customers purchase access to events, including mu
 **Booking Types** $\rightarrow$ **Tickets** $\rightarrow$ **New Ticket**
 
 ### Configuration Steps:
+
 1. **Ticket Details:**
     * **Name & Description:** Define the ticket type (e.g., "Workshop Pass").
     * **Price & Usage:** Set the price and the **Number of Usages**. 

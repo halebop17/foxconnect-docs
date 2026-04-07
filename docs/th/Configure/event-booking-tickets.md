@@ -15,6 +15,7 @@
 **Booking Types** $\rightarrow$ **Events** $\rightarrow$ **New Event**
 
 ### ขั้นตอนการตั้งค่า:
+
 1. **ข้อมูลพื้นฐาน:**
     * **Event Name & Description:** ระบุชื่อที่ชัดเจนและรายละเอียดครบถ้วนเกี่ยวกับอีเวนต์
     * **Duration:** กำหนดระยะเวลาที่คาดว่าจะใช้สำหรับอีเวนต์
@@ -40,6 +41,7 @@
 **Booking Types** $\rightarrow$ **Tickets** $\rightarrow$ **New Ticket**
 
 ### ขั้นตอนการตั้งค่า:
+
 1. **รายละเอียดตั๋ว:**
     * **Name & Description:** กำหนดประเภทตั๋ว (เช่น "Workshop Pass")
     * **Price & Usage:** กำหนดราคาและ **จำนวนครั้งที่ใช้ได้**

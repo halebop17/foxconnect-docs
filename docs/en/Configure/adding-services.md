@@ -39,12 +39,14 @@ Before finalizing, ensure the following configurations are set:
 ---
 
 ### 4. Finalizing the Service
+
 * **Create:** Once all fields are populated, click the **Create Service** button.
 * **Management:** Your new service is now live. You can view, edit, or manage the details of your service at any time by clicking the **View** button in the service list.
 
 ---
 
 **Summary Checklist**
+
 - [ ] Service Name and Description entered.
 - [ ] Duration, Price, and Capacity defined.
 - [ ] Correct Branch assigned.
