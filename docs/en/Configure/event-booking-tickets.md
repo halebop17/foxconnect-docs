@@ -1,4 +1,4 @@
-# Event and Ticket Management
+# Events and Tickets
 
 To effectively manage bookings, it is essential to understand the distinct roles that **Events** and **Tickets** play within the FoxConnect ecosystem.
 
