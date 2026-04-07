@@ -60,6 +60,7 @@ nav = [
         "Configure/index.md",
         "Configure/add-branches.md",
         "Configure/add-staff.md",
+        "Configure/course_booking.md",
     ] },
 ]
 
