@@ -1,4 +1,11 @@
+---
+icon: 
+title: การจัดการอีเวนต์และตั๋ว
+---
+
 # การจัดการอีเวนต์และตั๋ว
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oax-kiNP_l4?si=xB60JDs3pzQB27oq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 เพื่อจัดการการจองอย่างมีประสิทธิภาพ สิ่งสำคัญคือต้องเข้าใจบทบาทที่แตกต่างกันของ **Events** และ **Tickets** ภายในระบบ FoxConnect
 
@@ -21,6 +28,12 @@
     * **Duration:** กำหนดระยะเวลาที่คาดว่าจะใช้สำหรับอีเวนต์
     * **Price:** กรอกค่าใช้จ่ายต่อผู้เข้าร่วม
     * **Capacity:** กำหนดจำนวนผู้เข้าร่วมสูงสุดที่อนุญาต
+
+     
+        
+![Create New Course](../../assets/images/events-booking1.png "Event basic information").  
+    
+       
 2. **รายละเอียดและแบรนด์:**
     * **Branch:** เลือกสาขาเฉพาะที่อีเวนต์นี้จะจัดขึ้น
     * **Event Image:** อัปโหลดรูปภาพที่ชัดเจนและเป็นตัวแทนที่ดี รูปภาพนี้มีความสำคัญต่อประสบการณ์การจองของลูกค้า
@@ -52,12 +65,21 @@
 3. **ฟีเจอร์ขั้นสูง:**
     * **การตั้งค่าการชำระเงิน (ไม่บังคับ):** เปิดใช้งานการชำระเงินออนไลน์เพื่อประสบการณ์การชำระเงินที่ราบรื่น
     * **QR Code Check-in (ไม่บังคับ):** เปิดใช้งานนี้เพื่อให้พนักงานสามารถตรวจสอบผู้เข้าร่วมโดยใช้ QR code เมื่อมาถึง
+      
+          
+![Create New Course](../../assets/images/course-booking1.png "Event basic information").  
+    
+   
 4. **การกำหนดเวลา (ตารางอีเวนต์):**
     * **Dates:** เลือกวันเริ่มต้น และถ้ามี วันสิ้นสุด
     * **Time Slots:** กำหนดเวลาเริ่มต้นและสิ้นสุดที่เฉพาะเจาะจงสำหรับเซสชัน
     * **Capacity & Staff:** กำหนดจำนวนคนที่สามารถเข้าร่วมและกำหนดพนักงานเฉพาะเพื่อจัดการเซสชัน (ไม่บังคับ)
     * **หลายเซสชัน:** ถ้าต้องการใช้ตั๋วเดียวกันในเวลาต่างกัน คลิก **Add Schedule** เพื่อสร้างช่วงเวลาเพิ่มเติม
-
+    
+        
+![Create New Course](../../assets/images/events-booking3.png "Event basic information").  
+    
+    
 **การยืนยัน:**  
 คลิก **Create** คุณสามารถจัดการประเภทตั๋วที่ใช้งานอยู่ทั้งหมดและตารางเวลาของพวกเขาได้โดยคลิกปุ่ม **View**
 

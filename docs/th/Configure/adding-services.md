@@ -1,10 +1,21 @@
+---
+icon: 
+title: การเพิ่มบริการใหม่
+---
+
 # การเพิ่มบริการใหม่
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd7Vv63SmCQ?si=RQyQJkhO3ZVy7O7F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 คู่มือนี้ให้คำแนะนำทีละขั้นตอนในการสร้างและกำหนดค่าบริการใหม่ภายในแพลตฟอร์ม FoxConnect
 
 **เส้นทางการนำทาง:**  
 **Booking Types** $\rightarrow$ **Services** $\rightarrow$ **Services**
-
+       
+      
+![Service details](../../assets/images/service-booking3.png "Service details").         
+    
+  
 ---
 
 ### 1. เริ่มสร้างบริการ
@@ -23,6 +34,11 @@
     * **Duration:** กำหนดระยะเวลาที่คาดว่าจะใช้สำหรับบริการ
     * **Price:** กรอกค่าใช้จ่ายของบริการ
     * **Staff Capacity:** กำหนดจำนวนพนักงานหรือขีดจำกัดความจุที่เกี่ยวข้องกับบริการนี้
+       
+      
+![Service details](../../assets/images/service-booking1.png "Service details").         
+    
+            
 * **สาขาและรูปภาพ:**
     * **Branch Selection:** ใช้เมนูดรอปดาวน์เพื่อเลือกสาขา (หรือหลายสาขา) ที่จะให้บริการนี้
     * **Service Image:** อัปโหลดหรือระบุ URL สำหรับรูปภาพบริการ
@@ -35,7 +51,11 @@
 
 * **Service Status:** ตรวจสอบให้แน่ใจว่าสถานะถูกตั้งเป็น **Active** หากสถานะไม่ใช่ Active บริการจะไม่ปรากฏให้ลูกค้าเห็น
 * **การตั้งค่าการชำระเงิน (ไม่บังคับ):** คุณสามารถเปิดใช้งานการตั้งค่าการชำระเงินเพื่อให้ลูกค้าชำระเงินเต็มจำนวนออนไลน์ในขณะที่จองคิว ช่วยลดการไม่มาตามนัดและทำให้กระบวนการชำระเงินง่ายขึ้น
-
+      
+          
+![Service details](../../assets/images/service-booking2.png "Service details").       
+      
+      
 ---
 
 ### 4. การยืนยันบริการ
