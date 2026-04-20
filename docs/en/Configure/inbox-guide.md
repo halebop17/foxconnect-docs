@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 1. Inbox & Chat
+title: Inbox & Chat
 ---
 
 # Using the Inbox

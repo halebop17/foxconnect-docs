@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 1. Events & Tickets Setup
+title: Events & Tickets Setup
 ---
 
 # Events and Tickets

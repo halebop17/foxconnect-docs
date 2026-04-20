@@ -63,6 +63,7 @@ nav = [
         "Configure/adding-services.md",
         "Configure/course_booking.md",
         "Configure/event-booking-tickets.md",
+        "Configure/inbox-guide.md",
     ] },
 ]
 

@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 1. Course Bookings
+title: Course Bookings
 ---
 
 # Course Booking

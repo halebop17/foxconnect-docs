@@ -1,6 +1,6 @@
 ---
 icon: 
-title: 1. Adding Services
+title: Adding Services
 ---
 
 # Adding New Services
