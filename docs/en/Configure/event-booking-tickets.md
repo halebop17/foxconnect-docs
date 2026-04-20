@@ -1,4 +1,11 @@
+---
+icon: 
+title: 1. Events & Tickets Setup
+---
+
 # Events and Tickets
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MxxHANbBSAw?si=_nmxU6il0KymU0gM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 To effectively manage bookings, it is essential to understand the distinct roles that **Events** and **Tickets** play within the FoxConnect ecosystem.
 
@@ -20,14 +27,19 @@ Use this section to define the time, place, and nature of your activity.
     * **Event Name & Description:** Provide a clear title and a detailed overview of what the event entails.
     * **Duration:** Set the expected length of the event.
     * **Price:** Enter the cost per attendee.
-    * **Capacity:** Define the maximum number of participants allowed.
+    * **Capacity:** Define the maximum number of participants allowed.   
+     
+        
+![Create New Course](../../assets/images/events-booking1.png "Event basic information").  
+    
+       
 2. **Logistics & Branding:**
     * **Branch:** Select the specific branch where this event will take place.
     * **Event Image:** Upload a clear, representative image. This image is vital for the customer's booking experience.
 3. **Advanced Settings:**
     * **Status:** Ensure the status is set to **Active** so it is visible to the public.
     * **Payment Settings (Optional):** Enable this to allow customers to pay the full amount online at the time of booking.
-
+        
 **Finalization:**  
 Click **Create Event**. Once created, you can use the **View** button to manage or monitor your event details.
 
@@ -51,13 +63,22 @@ Use this section to manage how customers purchase access to events, including mu
     * **Status:** Set to **Active** to ensure availability.
 3. **Advanced Features:**
     * **Payment Settings (Optional):** Enable online payments for a seamless checkout experience.
-    * **QR Code Check-in (Optional):** Enable this to allow staff to verify attendees using a QR code upon arrival.
+    * **QR Code Check-in (Optional):** Enable this to allow staff to verify attendees using a QR code upon arrival.     
+         
+          
+![Create New Course](../../assets/images/course-booking1.png "Event basic information").  
+    
+   
 4. **Scheduling (The Event Schedule):**
     * **Dates:** Select the start date and, if applicable, an end date.
     * **Time Slots:** Set the specific start and end times for the session.
     * **Capacity & Staff:** Define how many people can attend and optionally assign specific staff members to manage the session.
     * **Multiple Sessions:** If you need to run the same ticket for different times, click **Add Schedule** to create additional time slots.
-
+     
+        
+![Create New Course](../../assets/images/events-booking3.png "Event basic information").  
+    
+  
 **Finalization:**  
 Click **Create**. You can manage all active ticket types and their schedules by clicking the **View** button.
 

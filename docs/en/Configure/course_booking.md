@@ -1,4 +1,11 @@
+---
+icon: 
+title: 1. Course Bookings
+---
+
 # Course Booking
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKV4CJ-Yw5Y?si=0ET8Hl1mjp1UePsz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 FoxConnect provides two distinct methods for managing courses, depending on whether your sessions occur on specific dates or follow a repeating weekly pattern.
 
@@ -25,7 +32,11 @@ To begin, navigate to **Booking Types** >> **Courses** >> **Courses**.
 * **Capacity:** Define the maximum number of participants allowed per session.
 * **Staffing:** (Optional) Assign specific staff members to this course.
 * **Multiple Slots:** Use the **Add Schedule** button to create additional time slots for the same course.
-
+      
+         
+![Create New Course](../../assets/images/course-booking2.png "Create New Course").    
+    
+        
 **Step 3: Finalizing**
 
 * Ensure the **Status** is set to **Active**.
@@ -48,8 +59,12 @@ To begin, navigate to **Booking Types** >> **Courses** >> **Courses**.
 * **Multiple Slots:** Use **Add Time** to add multiple sessions occurring on the same day.
 * **Efficiency Tools:**
     * **Copy Feature:** Use "Copy" to quickly apply an existing schedule to other days or set them manually.
-    * **Exclusions:** Use the **Days and Time Off** feature to block out specific dates, such as public holidays, to prevent bookings during closures.
-
+    * **Exclusions:** Use the **Days and Time Off** feature to block out specific dates, such as public holidays, to prevent bookings during closures.   
+       
+          
+![Create New Course](../../assets/images/course-booking3.png "Create New Course").   
+      
+    
 **Step 3: Finalizing**
 
 * Click **Create Course** to activate the recurring schedule.
@@ -61,7 +76,11 @@ To begin, navigate to **Booking Types** >> **Courses** >> **Courses**.
 
 * **Online Payment Settings:** Enable this to allow customers to pay the full amount online at the moment of booking.
 * **QR Code Check-in:** Enable this feature to allow customers to check into their sessions using a QR code upon arrival.
-
+       
+          
+![Create New Course](../../assets/images/events-booking2.png "Create New Course").   
+      
+  
 ---
 
 ### 4. Management & Monitoring

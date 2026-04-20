@@ -1,10 +1,21 @@
+---
+icon: 
+title: 1. Adding Services
+---
+
 # Adding New Services
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oDd8lpeSCL8?si=qIGByurK6JgXnnfs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This guide provides step-by-step instructions on how to create and configure new services within the FoxConnect platform.
 
 **Navigation Path:**  
 **Booking Types** $\rightarrow$ **Services** $\rightarrow$ **Services**
-
+       
+      
+![Service details](../../assets/images/service-booking3.png "Service details").         
+    
+         
 ---
 
 ### 1. Initiate Service Creation
@@ -22,7 +33,12 @@ Complete the following sections to define the core properties of your service:
 * **Logistics & Pricing:**
     * **Duration:** Set the expected length of time for the service.
     * **Price:** Enter the cost of the service.
-    * **Staff Capacity:** Define the number of staff members or capacity limits associated with this service.
+    * **Staff Capacity:** Define the number of staff members or capacity limits associated with this service.   
+       
+      
+![Service details](../../assets/images/service-booking1.png "Service details").         
+    
+            
 * **Location & Visuals:**
     * **Branch Selection:** Use the dropdown menu to choose which branch (or branches) will offer this service.
     * **Service Image:** Upload or provide a URL for a service image. 
@@ -35,7 +51,11 @@ Before finalizing, ensure the following configurations are set:
 
 * **Service Status:** Ensure the status is set to **Active**. If the status is not active, the service will not be visible to customers.
 * **Payment Settings (Optional):** You may enable payment settings to allow customers to pay the full amount online at the time of booking. This helps reduce no-shows and simplifies the checkout process.
-
+      
+          
+![Service details](../../assets/images/service-booking2.png "Service details").       
+      
+           
 ---
 
 ### 4. Finalizing the Service
